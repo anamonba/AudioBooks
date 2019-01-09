@@ -12,7 +12,7 @@ For a better understanding in the design process for this evaluation, see the do
 ```
 Research & Discovery 
 ```
-* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Audio_Books_Research%26Discovery%26Definition.pdf) (Research and Refrences| Pages 1 to 4).
+* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Audio_Books_Research%26Discovery%26Definition.pdf) (Research and References| Pages 1 to 4).
 ```
 Definition
 ```

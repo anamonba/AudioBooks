@@ -12,7 +12,7 @@ For a better understanding in the design process for this evaluation, see the do
 ```
 Research & Discovery 
 ```
-* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Audio_Books_Research%26Discovery%26Definition.pdf) (Pages 1 to 4).
+* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Audio_Books_Research%26Discovery%26Definition.pdf) (Research and Refrences| Pages 1 to 4).
 ```
 Definition
 ```
@@ -20,13 +20,13 @@ Definition
 ```
 Wireframing and Flow Selection 
 ```
-* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Selected-Flow-Context.pdf)
-* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Wireframe_Preview.png)(For more detail see Wireframe-Context.sketch)
+* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Selected-Flow-Context.pdf) (Flow selected for design)
+* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Wireframe_Preview.png) (For more detail see Wireframe-Context.sketch)
 
 ```
 Brand and Look & Feel 
 ```
-* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Brand%20Style%20Context.pdf)
+* [See attached file:](https://github.com/anamonba/AudioBooks/blob/master/Brand%20Style%20Context.pdf) (Final Design)
 
 ## Built With
 

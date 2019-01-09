@@ -35,6 +35,7 @@ Brand and Look & Feel
 * [Statista](https://www.statista.com) - Data 
 * [Pixabay](https://pixabay.com/en/) - Free Images 
 
+![Cover Image 2](https://github.com/anamonba/AudioBooks/blob/master/Cover%202.png)
 
 ## Author
 

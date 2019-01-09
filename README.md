@@ -8,20 +8,24 @@ First task while listening books it’s also important.
 We take into account the ambient sound while you enjoy your audiobook.
 
 ### Process
-What things you need to install the software and how to install them
+For a better understanding in the design process for this evaluation, see the documents attached, for more detail please use editable .sketch documents.
 
 ```
 Research & Discovery 
 ```
+- See attached file: Audio_Books_Research&Discovery&Definition.pdf (Pages 1 to 4).
 ```
 Definition
 ```
+- See attached file: Audio_Books_Research&Discovery&Definition.pdf  (Sitemap). 
 ```
 Wireframing and Flow Selection 
 ```
+- See attached file: Wireframe_Preview.png and Selected-Flow-Context.pdf (For more detail see Wireframe-Context.sketch)
 ```
 Brand and Look & Feel 
 ```
+- See attached file: Brand Style Context.pdf
 
 ## Built With
 

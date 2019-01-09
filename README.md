@@ -1,5 +1,5 @@
 # AudioBooks | Context App 
-UI/UX Evaluation | First task while listening autdiobooks it’s also important.
+UI/UX Evaluation | First task while listening audiobooks it’s also important.
 
 ## Key Differentiator
 We take into account the ambient sound while you enjoy your audiobook.

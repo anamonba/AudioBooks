@@ -4,6 +4,8 @@ UI/UX Evaluation | First task while listening autdiobooks it’s also important.
 ## Key Differentiator
 We take into account the ambient sound while you enjoy your audiobook.
 
+![Coverimage](https://raw.githubusercontent.com/anamonba/AudioBooks/master/path/to/cover.png)
+
 ### Process
 For a better understanding in the design process for this evaluation, see the documents attached, for more detail please use editable .sketch documents.
 
